@@ -10,4 +10,13 @@ We decided to go with a Logistic Regression, applying a regularization of C = 0.
 ## The Data
 We reduced the data from 2.26 million records with 145 variables to approximately a million records with 21 variables before using one-hot encoding for the categorical variables.
 
+## The Result
+Accuracy : 64%
+Recall : 68%
+Precision : 32%
+f1 Score : 43.1
+
+AUC Score : 0.715
+
+The use of balanced class weights is resulting in a lot of false-positives with regards to default. Need to look into that.
 
