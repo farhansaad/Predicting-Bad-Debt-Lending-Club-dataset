@@ -19,4 +19,5 @@ We reduced the data from 2.26 million records with 145 variables to approximatel
 #### AUC Score : 0.715
 
 The use of balanced class weights is resulting in a lot of false-positives with regards to default. Need to look into that.
-
+NEXT UPDATE:
+Use of ensembles
