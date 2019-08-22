@@ -1,6 +1,8 @@
 # Predicting Bad Debt from the Lending Club dataset
 This was my Capstone project for the full-time Data Science Bootcamp at BrainStation. Lending Club is a peer to peer lending platform and this data consisted of all the loans issued through the platform from 2007 to 2015. The dataset came from Kaggle.
 
+### P.S. I keep working on this file and keep changing the code to improve and experiment. Some of the stats stated might not reflect what's in the new notebook.
+
 ## The Purpose
 The aim of this project was to predict based on input variables of a borrower profile, whether this person will be able to pay back the loan or not.
 
